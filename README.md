@@ -11,5 +11,6 @@
 
 #### 2022/12/26
 
-- [ ] Diffusion Art or Digital Forgery? Investigating Data Replication in Diffusion Models: [arXiv](https://arxiv.org/pdf/2212.03860); [Note]()
+- [x] Diffusion Art or Digital Forgery? Investigating Data Replication in Diffusion Models: [arXiv](https://arxiv.org/pdf/2212.03860); [Note]()
+- [x] Multimodal Masked Autoencoders Learn Transferable Representations: [arXiv](https://arxiv.org/abs/2205.14204)
 
