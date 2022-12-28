@@ -16,9 +16,10 @@
 
 #### 2022/12/27
 
-- [x] RegMixup: Mixup as a Regularizer Can Surprisingly Improve Accuracy & Out-of-Distribution Robustness: \[[Paper](RegMixup: Mixup as a Regularizer Can Surprisingly Improve Accuracy & Out-of-Distribution Robustness)]
+- [x] RegMixup: Mixup as a Regularizer Can Surprisingly Improve Accuracy & Out-of-Distribution Robustness: \[[Paper](https://arxiv.org/abs/2206.14502)]
 
 #### 2022/12/28
 
-- [ ] How to Fine-Tune Vision Models with SGD: \[[Paper](https://arxiv.org/abs/2211.09359)]
-- [ ] Attentive Mask CLIP: \[[Paper](https://arxiv.org/abs/2212.08653)]
+- [x] How to Fine-Tune Vision Models with SGD: \[[Paper](https://arxiv.org/abs/2211.09359)]
+- [x] Attentive Mask CLIP: \[[Paper](https://arxiv.org/abs/2212.08653)]
+- [x] MaskCLIP: Masked Self-Distillation Advances Contrastive Language-Image Pretraining: \[[Paper](https://arxiv.org/abs/2208.12262)]
