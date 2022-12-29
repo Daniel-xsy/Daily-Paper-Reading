@@ -26,7 +26,7 @@
 
 #### 2022/12/29
 
-- [ ] Cramming: Training a Language Model on a Single GPU in One Day: \[[Paper](https://arxiv.org/abs/2212.14034)]
+- [x] Cramming: Training a Language Model on a Single GPU in One Day: \[[Paper](https://arxiv.org/abs/2212.14034)]
 - [ ] How Well Do Self-Supervised Models Transfer?: \[[Paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Ericsson_How_Well_Do_Self-Supervised_Models_Transfer_CVPR_2021_paper.pdf)]
 
 #### 2022/12/30
