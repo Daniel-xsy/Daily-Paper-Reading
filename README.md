@@ -23,3 +23,12 @@
 - [x] How to Fine-Tune Vision Models with SGD: \[[Paper](https://arxiv.org/abs/2211.09359)]
 - [x] Attentive Mask CLIP: \[[Paper](https://arxiv.org/abs/2212.08653)]
 - [x] MaskCLIP: Masked Self-Distillation Advances Contrastive Language-Image Pretraining: \[[Paper](https://arxiv.org/abs/2208.12262)]
+
+#### 2022/12/29
+
+- [ ] Cramming: Training a Language Model on a Single GPU in One Day: \[[Paper](https://arxiv.org/abs/2212.14034)]
+- [ ] How Well Do Self-Supervised Models Transfer?: \[[Paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Ericsson_How_Well_Do_Self-Supervised_Models_Transfer_CVPR_2021_paper.pdf)]
+
+#### 2022/12/30
+
+- [ ] What Knowledge Gets Distilled in Knowledge Distillation?: \[[Paper](https://arxiv.org/abs/2205.16004)]
